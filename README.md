@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Vanshdeep Arya<br><br>🚀 Full Stack Developer | MERN Stack | AWS | DevOps Enthusiast  <br><br>💻 I have 2.5+ years of experience building scalable, high-performance web applications using modern technologies.<br><br># 👨‍💻 About Me<br><br>- 🔭 Currently working as a **Full Stack Developer**<br>- ⚡ Experienced in **MERN Stack, AWS & Cloud DevOps**<br>- 🧠 Solved **600+ DSA problems on LeetCode**<br>- 🚀 Passionate about building **scalable systems & optimized architectures**<br>- 🔄 Experienced in **CI/CD, Docker, and deployment automation**<br>- 📈 Love improving performance using **Redis caching & system design**
+# Hi 👋, I'm Vanshdeep Arya<br><br>🚀 Full Stack Developer | MERN Stack | AWS | DevOps Enthusiast  <br><br>💻 I have 2.5+ years of experience building scalable, high-performance web applications using modern technologies.<br><br>- 🔭 Currently working as a **Full Stack Developer**<br>- ⚡ Experienced in **MERN Stack, AWS & Cloud DevOps**<br>- 🧠 Solved **600+ DSA problems on LeetCode**<br>- 🚀 Passionate about building **scalable systems & optimized architectures**<br>- 🔄 Experienced in **CI/CD, Docker, and deployment automation**<br>- 📈 Love improving performance using **Redis caching & system design**
 
 
 ## 🌐 Socials:
