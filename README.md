@@ -24,12 +24,9 @@
 ```js
 const vansh = {
   name: "Vanshdeep Arya",
-  role: "Full Stack Developer",
+  role: "Software Engineer",
   experience: "3+ years",
-  focus: ["MERN Stack", "AWS", "Redis", "CI/CD"],
-  currentlyLearning: ["System Design", "Docker & Kubernetes", "Machine Learning"],
-  lookingFor: "Remote Full Stack Developer roles",
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+  focus: ["MERN Stack", "AWS", "Redis", "CI/CD", "System Design", "Docker & Kubernetes", "Machine Learning"],  
 };
 ```
 
@@ -81,8 +78,9 @@ const vansh = {
 
 <div align="center">
 
-<table>
+<!-- <table>
   <tr>
+
     <td align="center" width="50%">
       <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
     </td>
@@ -90,7 +88,7 @@ const vansh = {
       <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut-vertical&hide_border=true&langs_count=6&theme=tokyonight" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <img alt="Contribution Streak" width="80%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
