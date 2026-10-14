@@ -76,16 +76,22 @@ const vansh = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    </td>
+    <td align="center" width="50%">
+      <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img alt="Contribution Activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -100,27 +106,6 @@ const vansh = {
 | **[Project Three](https://github.com/YOUR_GITHUB_USERNAME/project-three)** | One-line summary of the feature or architecture you're proud of | `React` `Docker` `CI/CD` |
 
 > 💡 Replace these with your 3 best repos. Pin the same repos on your profile.
-
----
-
-## 💼 Experience
-
-- **Innovins Softtech Solution Pvt. Ltd**: Full Stack Developer
-- **Synexis Venture**: Full Stack Developer
-
----
-
-## 🏆 Achievements
-
-- 🎖️ Participant, **HackerRank Orchestrate** (October 2026)
-- ⚙️ Built and maintained CI/CD pipelines and AWS-hosted applications
-
----
-
-## 📝 What I'm Working On
-
-- 📚 System design, Docker, and SQL vs NoSQL deep dives
-- 🤖 Exploring machine learning and deep learning fundamentals
 
 ---
 
