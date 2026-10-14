@@ -9,11 +9,14 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vansh432&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views]([https://komarev.com/ghpvc/?username=vansh432&label=Profile%20Views&color=0e75b6&style=flat-square](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshdeep-arya-750976175/)
+
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vanshdeep703@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white)](https://vanshdeep.space/)
 
 </div>
 
@@ -42,7 +45,8 @@ const vansh = {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -101,9 +105,11 @@ const vansh = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshdeep-arya-750976175/)
+
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vanshdeep703@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white)](https://vanshdeep.space/)
 
 <br/>
 
