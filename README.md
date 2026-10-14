@@ -95,13 +95,6 @@ const vansh = {
 
 <br/><br/>
 
-<img alt="Contribution Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-
-<br/>
-
-<img alt="GitHub Trophies" width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
 
 ---
 
