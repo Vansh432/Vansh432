@@ -83,29 +83,25 @@ const vansh = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+      <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
     </td>
     <td align="center" width="50%">
-      <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+      <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut-vertical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
     </td>
   </tr>
 </table>
 
-<img alt="Contribution Activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" />
+<img alt="Contribution Streak" width="80%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+<br/><br/>
+
+<img alt="Contribution Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/>
+
+<img alt="GitHub Trophies" width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project One](https://github.com/YOUR_GITHUB_USERNAME/project-one)** | One-line summary of what it does and the problem it solves | `React` `Node.js` `MongoDB` |
-| **[Project Two](https://github.com/YOUR_GITHUB_USERNAME/project-two)** | One-line summary with a measurable result (e.g. "cut API latency 40% with Redis caching") | `Express` `Redis` `AWS` |
-| **[Project Three](https://github.com/YOUR_GITHUB_USERNAME/project-three)** | One-line summary of the feature or architecture you're proud of | `React` `Docker` `CI/CD` |
-
-> 💡 Replace these with your 3 best repos. Pin the same repos on your profile.
 
 ---
 
