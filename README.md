@@ -9,7 +9,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=vansh432&label=Profile%20Views&color=0e75b6&style=flat-square)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
