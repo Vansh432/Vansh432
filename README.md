@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B5D,100:00B8D9&height=230&section=header&text=Vanshdeep%20Arya&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Vanshdeep Arya - Software Engineer" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,50:123B5D,100:00B8D9&amp;height=230&amp;section=header&amp;text=Vanshdeep%20Arya&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Vanshdeep Arya - Software Engineer"/>
+
+</div>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+scalable+and+reliable+applications;Engineering+high-performance+backend+systems;Automating+deployments+with+AWS+and+CI%2FCD;Solving+problems+with+650%2B+DSA+challenges" alt="Animated developer introduction" />
