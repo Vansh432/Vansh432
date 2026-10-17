@@ -24,7 +24,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/anime-profile.png" width="100%" alt="Vanshdeep Arya anime developer portrait" />
+<img src="./myimage.png" width="100%" alt="Vanshdeep Arya anime developer portrait" />
 
 </td>
 </tr>
