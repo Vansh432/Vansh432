@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <table>
 <tr>
@@ -52,6 +52,8 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -81,12 +83,17 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 <tr>
 <td width="50%" valign="top">
 
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
 
@@ -122,61 +129,6 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💊 Kemvia
-
-**Pharma & CRDMO Marketplace**
-
-A B2B marketplace connecting pharmaceutical companies with research, development, and manufacturing partners.
-
-- AHP-based partner ranking
-- Advanced partner filtering
-- Secure AWS S3 document storage
-- AWS SES and automated CI/CD
-
-`React` `Next.js` `Node.js` `MongoDB` `Redis` `AWS`
-
-</td>
-<td width="33%" valign="top">
-
-### 💼 JobCliff
-
-**Job & Internship Platform**
-
-A recruitment platform for students and employers.
-
-- Job and internship workflows
-- Real-time application status using Socket.IO
-- Node.js clustering
-- Hybrid MongoDB and MySQL architecture
-
-`React` `Next.js` `Node.js` `MySQL` `Redis` `AWS`
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 Our MicroLife
-
-**Multi-Vendor E-Commerce**
-
-An e-commerce platform with multi-vendor workflows and a 14-level MLM system.
-
-- Product and order workflows
-- Multi-vendor functionality
-- Backend API development
-
-`Node.js` `Express.js` `MySQL` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Statistics
 
