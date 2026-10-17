@@ -1,153 +1,123 @@
- <!-- =============== HERO HEADER =============== -->
+ <!-- =============== HEADER =============== -->
 
 <div align="center">
 
-<div align="center">
+# VANSHDEEP ARYA
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,50:123B5D,100:00B8D9&amp;height=230&amp;section=header&amp;text=Vanshdeep%20Arya&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Vanshdeep Arya - Software Engineer"/>
+### Software Engineer · Full Stack Developer · Cloud & DevOps
 
-</div>
+**Building scalable applications, reliable backend systems, and production-ready software.**
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+scalable+and+reliable+applications;Engineering+high-performance+backend+systems;Automating+deployments+with+AWS+and+CI%2FCD;Solving+problems+with+650%2B+DSA+challenges" alt="Animated developer introduction" />
-</a>
-
-<br/>
-
-<a href="https://vanshdeep.space/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/vanshdeep-arya-750976175/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:vanshdeep703@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Vansh432&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Vansh432?label=Followers&style=flat-square&color=0EA5E9" alt="GitHub followers" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://vanshdeep.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshdeep-arya-750976175/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Vansh432)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshdeep703@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **Software Engineer and Full Stack Developer** with 3+ years of experience building, optimizing, and deploying production-grade applications.
+I'm a **Software Engineer with 3+ years of experience** in full-stack development, backend engineering, and cloud infrastructure.
 
-My focus is on writing maintainable code, designing scalable backend systems, improving application performance, and automating reliable software delivery.
+I enjoy building scalable applications, optimizing performance, designing reliable APIs, and automating deployment workflows.
 
-```javascript
-const vanshdeep = {
-  role: "Software Engineer",
-  experience: "3+ years",
-  expertise: [
-    "Full Stack Development",
-    "Backend Engineering",
-    "System Design",
-    "Cloud & DevOps",
-  ],
-  technologies: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    cloud: ["AWS", "Docker", "CI/CD", "Linux"],
-  },
-  problemSolving: "650+ DSA problems solved",
-  currentlyExploring: ["System Design", "AI/ML", "Agentic AI"],
-};
-```
-
-- ⚙️ Building scalable full-stack applications and backend services.
-- 🚀 Optimizing performance through caching, clustering, and efficient database design.
-- ☁️ Automating deployments with AWS, Docker, Linux, and GitHub Actions.
-- 🧠 Exploring system design, AI/ML, and AI-assisted development workflows.
-- 🤝 Open to connecting with engineers and collaborating on meaningful projects.
+- ⚡ **Backend Engineering:** Node.js, Express.js, REST APIs, Redis, Socket.IO
+- 🖥️ **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS
+- ☁️ **Cloud & DevOps:** AWS, Docker, Linux, Nginx, GitHub Actions
+- 🗄️ **Data Engineering:** MongoDB, PostgreSQL, MySQL, caching and database optimization
+- 🧠 **Problem Solving:** 650+ DSA problems solved
+- 🔬 **Currently Exploring:** System Design, AI/ML, and Agentic AI
 
 ---
 
-## 🧰 Technology Stack
+## 🛠️ Tech Stack
 
-### Frontend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" alt="Frontend technologies" />
-</p>
+**Frontend**
 
-### Backend & Databases
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,prisma" alt="Backend and database technologies" />
-</p>
+**Backend & Databases**
 
-### Cloud, DevOps & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx,linux,bash,git" alt="Cloud and DevOps technologies" />
-</p>
+**Cloud & DevOps**
 
-### Tools & Development
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=postman,vscode,github,git,python,java" alt="Development tools and languages" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. Kemvia — Pharma & CRDMO Marketplace
+### 💊 Kemvia — Pharma & CRDMO Marketplace
 
-A B2B marketplace that connects pharmaceutical companies with Contract Research, Development and Manufacturing Organizations.
+A B2B marketplace helping pharmaceutical companies discover and evaluate Contract Research, Development and Manufacturing Organizations.
 
-**Highlights**
-- Built an AHP-based ranking engine to support data-driven partner evaluation.
-- Implemented advanced filtering by therapeutic areas, compliance certifications, and manufacturing capabilities.
-- Integrated secure document storage using AWS S3 and email delivery using AWS SES.
-- Automated releases with GitHub Actions CI/CD.
+- Built an AHP-based partner ranking engine.
+- Developed advanced filtering for therapeutic areas, compliance certifications, and manufacturing capabilities.
+- Integrated AWS S3, AWS SES, and GitHub Actions CI/CD.
 
-**Stack:** React, Next.js, Node.js, Express.js, MongoDB, Redis, AWS, Docker.
+`React` `Next.js` `Node.js` `Express` `MongoDB` `Redis` `AWS` `Docker`
 
-### 02. JobCliff — Job & Internship Platform
+### 💼 JobCliff — Job & Internship Platform
 
-A recruitment platform built for Vedanta Foundation, enabling students to discover opportunities and employers to manage job postings.
+A recruitment platform built for Vedanta Foundation, connecting students with job opportunities and employers.
 
-**Highlights**
-- Developed backend services for users, administration, applications, and assessments.
+- Developed backend APIs for users, administration, applications, and assessments.
 - Implemented real-time application status updates using Socket.IO.
-- Used Node.js clustering, Redis, and a hybrid MongoDB + MySQL architecture.
-- Deployed on AWS with automated CI/CD workflows.
+- Used Node.js clustering and a hybrid MongoDB + MySQL architecture.
+- Automated deployment using AWS and GitHub Actions.
 
-**Stack:** React, Next.js, Node.js, Express.js, MongoDB, MySQL, Redis, Socket.IO, AWS.
+`React` `Next.js` `Node.js` `MongoDB` `MySQL` `Redis` `Socket.IO` `AWS`
+
+### 🛒 Our MicroLife — Multi-Vendor E-Commerce
+
+A multi-vendor e-commerce platform with product management, order processing, and a 14-level MLM system.
+
+`Node.js` `Express.js` `MySQL` `REST APIs`
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Vansh432&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Vansh432&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 🏆 Problem Solving
+## 🧩 Problem Solving
 
 <div align="center">
 
-<a href="https://leetcode.com/u/vanshdeep12z/">
-<img src="https://img.shields.io/badge/LeetCode-650%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode problems solved" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-1200%2B%20Points-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks points" />
-</a>
-
-<br/><br/>
-
-*Consistent problem-solving builds the foundation for better engineering.*
+[![LeetCode](https://img.shields.io/badge/LeetCode-650%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanshdeep12z/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1200%2B%20Points-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
 </div>
 
@@ -155,18 +125,16 @@ A recruitment platform built for Vedanta Foundation, enabling students to discov
 
 ## 🤝 Let's Connect
 
+I'm interested in software engineering, scalable backend architecture, cloud infrastructure, performance optimization, and building impactful products.
+
 <div align="center">
 
-I'm always interested in discussing software engineering, scalable architectures, backend performance, cloud infrastructure, and interesting development projects.
+**Have an interesting project or engineering challenge? Let's connect.**
 
-<a href="https://www.linkedin.com/in/vanshdeep-arya-750976175/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:vanshdeep703@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send email" /></a>
-<a href="https://vanshdeep.space/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=flat-square&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
+[Portfolio](https://vanshdeep.space/) · [LinkedIn](https://www.linkedin.com/in/vanshdeep-arya-750976175/) · [Email](mailto:vanshdeep703@gmail.com)
 
-<br/><br/>
+<br/>
 
-**"Build with purpose. Scale with confidence. Keep learning."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:123B5D,100:0B1220&height=110&section=footer" width="100%" alt="Footer" />
+*Make it work. Make it right. Make it fast.*
 
 </div>
