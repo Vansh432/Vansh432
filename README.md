@@ -120,49 +120,6 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 </table>
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💊 Kemvia
-
-**Pharma & CRDMO Marketplace**
-
-B2B marketplace with partner ranking, advanced filtering, secure document storage, and AWS integrations.
-
-`React` `Next.js` `Node.js` `MongoDB` `AWS`
-
-</td>
-<td width="33%" valign="top">
-
-### 💼 JobCliff
-
-**Job & Internship Platform**
-
-Recruitment platform featuring real-time application updates, backend services, clustering, and hybrid database storage.
-
-`Node.js` `React` `MySQL` `Redis` `AWS`
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 Our MicroLife
-
-**Multi-Vendor E-Commerce**
-
-E-commerce platform with multi-vendor workflows and a 14-level MLM system.
-
-`Node.js` `Express` `MySQL` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
