@@ -1,123 +1,186 @@
- <!-- =============== HEADER =============== -->
+ <div align="center">
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-# VANSHDEEP ARYA
+<p><sub> S O F T W A R E &nbsp; E N G I N E E R </sub></p>
 
-### Software Engineer · Full Stack Developer · Cloud & DevOps
+<h1>VANSHDEEP <span>ARYA</span></h1>
 
-**Building scalable applications, reliable backend systems, and production-ready software.**
+<h3>Full Stack Developer | MERN | AWS | DevOps | System Design</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://vanshdeep.space/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshdeep-arya-750976175/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Vansh432)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshdeep703@gmail.com)
+<img src="https://img.shields.io/badge/3%2B-Years%20Experience-102B46?style=flat-square" />
+<img src="https://img.shields.io/badge/650%2B-DSA%20Problems-102B46?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud-AWS-102B46?style=flat-square" />
+
+<p><i>Building scalable applications and solving real-world problems with clean code and modern technology.</i></p>
+
+<a href="https://vanshdeep.space/"><img src="https://img.shields.io/badge/▶%20Portfolio-Visit-00A9F4?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/vanshdeep-arya-750976175/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/Vansh432"><img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github" /></a>
+<a href="mailto:vanshdeep703@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EF3340?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="./assets/anime-profile.png" width="100%" alt="Vanshdeep Arya anime developer portrait" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a **Software Engineer with 3+ years of experience** in full-stack development, backend engineering, and cloud infrastructure.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I enjoy building scalable applications, optimizing performance, designing reliable APIs, and automating deployment workflows.
+I'm a Software Engineer with **3+ years of experience** building full-stack applications and scalable backend systems.
 
-- ⚡ **Backend Engineering:** Node.js, Express.js, REST APIs, Redis, Socket.IO
-- 🖥️ **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS
-- ☁️ **Cloud & DevOps:** AWS, Docker, Linux, Nginx, GitHub Actions
-- 🗄️ **Data Engineering:** MongoDB, PostgreSQL, MySQL, caching and database optimization
-- 🧠 **Problem Solving:** 650+ DSA problems solved
-- 🔬 **Currently Exploring:** System Design, AI/ML, and Agentic AI
+- ⚡ Backend engineering and REST API development
+- 🚀 Performance optimization with Redis and clustering
+- ☁️ Cloud infrastructure and automated CI/CD
+- 🧠 System design and AI-assisted development
+
+**Core technologies**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td width="40%" valign="top">
+
+### Engineering Highlights
+
+| | |
+|:--|--:|
+| Experience | **3+ years** |
+| DSA problems | **650+** |
+| GFG points | **1200+** |
+| Focus | Scalability |
+| Delivery | CI/CD |
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Frontend**
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
 
-**Backend & Databases**
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-222222?style=flat-square&logo=express)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio)
+![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?style=flat-square)
 
-**Cloud & DevOps**
+</td>
+<td width="50%" valign="top">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💊 Kemvia — Pharma & CRDMO Marketplace
+<table>
+<tr>
+<td width="33%" valign="top">
 
-A B2B marketplace helping pharmaceutical companies discover and evaluate Contract Research, Development and Manufacturing Organizations.
+### 💊 Kemvia
 
-- Built an AHP-based partner ranking engine.
-- Developed advanced filtering for therapeutic areas, compliance certifications, and manufacturing capabilities.
-- Integrated AWS S3, AWS SES, and GitHub Actions CI/CD.
+**Pharma & CRDMO Marketplace**
 
-`React` `Next.js` `Node.js` `Express` `MongoDB` `Redis` `AWS` `Docker`
+B2B marketplace with partner ranking, advanced filtering, secure document storage, and AWS integrations.
 
-### 💼 JobCliff — Job & Internship Platform
+`React` `Next.js` `Node.js` `MongoDB` `AWS`
 
-A recruitment platform built for Vedanta Foundation, connecting students with job opportunities and employers.
+</td>
+<td width="33%" valign="top">
 
-- Developed backend APIs for users, administration, applications, and assessments.
-- Implemented real-time application status updates using Socket.IO.
-- Used Node.js clustering and a hybrid MongoDB + MySQL architecture.
-- Automated deployment using AWS and GitHub Actions.
+### 💼 JobCliff
 
-`React` `Next.js` `Node.js` `MongoDB` `MySQL` `Redis` `Socket.IO` `AWS`
+**Job & Internship Platform**
 
-### 🛒 Our MicroLife — Multi-Vendor E-Commerce
+Recruitment platform featuring real-time application updates, backend services, clustering, and hybrid database storage.
 
-A multi-vendor e-commerce platform with product management, order processing, and a 14-level MLM system.
+`Node.js` `React` `MySQL` `Redis` `AWS`
 
-`Node.js` `Express.js` `MySQL` `REST APIs`
+</td>
+<td width="33%" valign="top">
+
+### 🛒 Our MicroLife
+
+**Multi-Vendor E-Commerce**
+
+E-commerce platform with multi-vendor workflows and a 14-level MLM system.
+
+`Node.js` `Express` `MySQL` `REST APIs`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/Vansh432">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/Vansh432">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Top languages" />
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Vansh432&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=Vansh432&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
-</div>
+<br/><br/>
 
----
-
-## 🧩 Problem Solving
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-650%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanshdeep12z/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1200%2B%20Points-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh432&amp;theme=tokyo-night&amp;hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
@@ -125,15 +188,15 @@ A multi-vendor e-commerce platform with product management, order processing, an
 
 ## 🤝 Let's Connect
 
-I'm interested in software engineering, scalable backend architecture, cloud infrastructure, performance optimization, and building impactful products.
-
 <div align="center">
 
-**Have an interesting project or engineering challenge? Let's connect.**
+Interested in scalable systems, backend engineering, cloud infrastructure, and impactful software products?
 
-[Portfolio](https://vanshdeep.space/) · [LinkedIn](https://www.linkedin.com/in/vanshdeep-arya-750976175/) · [Email](mailto:vanshdeep703@gmail.com)
+<a href="https://vanshdeep.space/"><img src="https://img.shields.io/badge/Portfolio-Explore-00A9F4?style=for-the-badge&logo=vercel" /></a>
+<a href="https://www.linkedin.com/in/vanshdeep-arya-750976175/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:vanshdeep703@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" /></a>
 
-<br/>
+<br/><br/>
 
 *Make it work. Make it right. Make it fast.*
 
