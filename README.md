@@ -146,8 +146,8 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 <img width="75%" src="https://streak-stats.demolab.com/?user=Vansh432&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh432&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" />
+<!-- 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh432&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" /> -->
 
 </div>
 
