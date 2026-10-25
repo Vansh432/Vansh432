@@ -129,27 +129,56 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 
 ---
 
+---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Performance Dashboard
 
 <div align="center">
 
 <a href="https://github.com/Vansh432">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Vanshdeep's GitHub statistics" />
 </a>
 <a href="https://github.com/Vansh432">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=Vansh432&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/Vansh432">
+  <img width="75%" src="https://streak-stats.demolab.com/?user=Vansh432&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+</a>
 
 <br/><br/>
-<!-- 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh432&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" /> -->
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh432&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F78166&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 
 </div>
+
+---
+
+## 💻 Languages I Work With
+
+<div align="center">
+
+<a href="https://github.com/Vansh432">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Programming language distribution" />
+</a>
+
+<br/>
+
+[**Explore My Repositories →**](https://github.com/Vansh432?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+*Consistency builds great software. Every contribution counts.*
+
+</div>
+
+
 
 ---
 
