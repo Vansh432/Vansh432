@@ -131,29 +131,49 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 
 ---
 
-## 📊 GitHub Performance Dashboard
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Vansh432">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Vanshdeep's GitHub statistics" />
-</a>
-<a href="https://github.com/Vansh432">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Vansh432">
-  <img width="75%" src="https://streak-stats.demolab.com/?user=Vansh432&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
+</a><a href="https://github.com/Vansh432">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh432&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F78166&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<a href="https://github.com/Vansh432">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Vansh432&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
+</a>
 
 </div>
 
+---
+
+## 💻 Programming Languages
+
+<div align="center">
+
+<a href="https://github.com/Vansh432">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Programming Language Distribution" />
+</a>
+
+<br/>
+
+[**Explore My Repositories →**](https://github.com/Vansh432?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+*Consistency. Quality. Continuous improvement.*
+
+</div>
 ---
 
 ## 💻 Languages I Work With
