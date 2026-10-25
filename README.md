@@ -50,6 +50,7 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 
 **Core Technologies**
 
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -157,31 +158,6 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 *Consistency. Quality. Continuous improvement.*
 
 </div>
----
-
-## 💻 Languages I Work With
-
-<div align="center">
-
-<a href="https://github.com/Vansh432">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Programming language distribution" />
-</a>
-
-<br/>
-
-[**Explore My Repositories →**](https://github.com/Vansh432?tab=repositories)
-
-</div>
-
----
-
-<div align="center">
-
-*Consistency builds great software. Every contribution counts.*
-
-</div>
-
-
 
 ---
 
