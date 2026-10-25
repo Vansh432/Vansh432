@@ -151,23 +151,6 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 
 </div>
 
----
-
-## 💻 Programming Languages
-
-<div align="center">
-
-<a href="https://github.com/Vansh432">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Programming Language Distribution" />
-</a>
-
-<br/>
-
-[**Explore My Repositories →**](https://github.com/Vansh432?tab=repositories)
-
-</div>
-
----
 
 <div align="center">
 
