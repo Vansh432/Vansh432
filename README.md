@@ -138,11 +138,6 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 
 <div align="center">
 
-<a href="https://github.com/Vansh432">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh432&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
-</a><a href="https://github.com/Vansh432">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh432&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages" />
-</a>
 
 <br/><br/>
 
