@@ -137,10 +137,6 @@ I'm a Software Engineer with **3+ years of experience** building full-stack appl
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-
-<br/><br/>
-
 <a href="https://github.com/Vansh432">
   <img width="70%" src="https://streak-stats.demolab.com/?user=Vansh432&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 </a>
